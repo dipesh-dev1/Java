@@ -1,0 +1,4 @@
+Hello Everyone!
+I'm Dipesh and this content is written in the file.
+5 + 4 = 9
+10 * 2 = 20
